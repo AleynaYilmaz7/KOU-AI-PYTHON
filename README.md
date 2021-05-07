@@ -1,2 +1,0 @@
-# KOU-AI-PYTHON
-KOU AI - QUIZ
